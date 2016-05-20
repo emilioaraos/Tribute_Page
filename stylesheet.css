@@ -16,3 +16,28 @@
    font-size:8px;
   background-color:#fff;
 }
+.subtitle{
+  text-align:center;
+}
+ul{
+  width:70%;
+  margin-left:15%;
+}
+.quote{
+    width:70%;
+  margin-left:18%;
+  padding-top: 20px
+}
+.author{
+  font-size: 20px;
+}
+.closing{
+  font-size:30px;
+    width:70%;
+  margin-left:18%;
+  padding-top: 20px
+}
+.link{
+  color:blue;
+  font-size:20px;
+}
